@@ -24,3 +24,6 @@ Kimenet (Console)
 Megkötés(ek)
 - 1 ≤ N ≤ 105
 - 1 ≤ Te, Tp ≤ 109
+
+![image](https://user-images.githubusercontent.com/25224122/165916084-19e8936d-68f6-462e-bcd0-40774eb5b027.png)
+![image](https://user-images.githubusercontent.com/25224122/165916123-a52ddbae-4ac9-4c9a-99ed-467201fb7cb1.png)
